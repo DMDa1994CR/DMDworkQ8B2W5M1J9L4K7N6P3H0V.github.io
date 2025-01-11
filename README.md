@@ -1,0 +1,1 @@
+This website is used to work in DMD. Any damage, etc., as long as you are not a worker, you will be fully reported since this website is confidential. If you want to hack etc. You will confront the serious consequences.
