@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Pixel Emulator';
+    src: url('C:\Users\ead_6\OneDrive\Escritorio\DMD Pagina Web\pixel_emulator.zip.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Pixel Emulator', Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    text-align: center;
+}
